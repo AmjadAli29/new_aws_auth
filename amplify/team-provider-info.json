@@ -1,0 +1,21 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-newawsauth-dev-105446-authRole",
+            "UnauthRoleArn": "arn:aws:iam::547956940052:role/amplify-newawsauth-dev-105446-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::547956940052:role/amplify-newawsauth-dev-105446-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-newawsauth-dev-105446-deployment",
+            "UnauthRoleName": "amplify-newawsauth-dev-105446-unauthRole",
+            "StackName": "amplify-newawsauth-dev-105446",
+            "StackId": "arn:aws:cloudformation:us-east-1:547956940052:stack/amplify-newawsauth-dev-105446/cf81ebb0-7fd2-11eb-9163-0aa73eec129d"
+        },
+        "categories": {
+            "auth": {
+                "newawsauthf905fb2a": {
+                    "hostedUIProviderCreds": "[{\"ProviderName\":\"Google\",\"client_id\":\"981424236456-d6ut6fp827c9hps51k5mod59h571jv10.apps.googleusercontent.com\",\"client_secret\":\"71iHkSjsUW643BQMbkMTJOAs\"}]"
+                }
+            }
+        }
+    }
+}

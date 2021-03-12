@@ -1,0 +1,16 @@
+{
+	"auth": {
+		"newawsauthf905fb2a": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	},
+	"storage": {
+		"AmjidFlutterTest": {
+			"service": "S3",
+			"providerPlugin": "awscloudformation"
+		}
+	}
+}

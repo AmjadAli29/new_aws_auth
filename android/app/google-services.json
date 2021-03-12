@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "981424236456",
+    "project_id": "new-aws-auth",
+    "storage_bucket": "new-aws-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981424236456:android:2102d3af3fc7112597df9d",
+        "android_client_info": {
+          "package_name": "com.example.new_aws_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981424236456-hveb3gqf5bcptkhu14ppuddcn5rcmq41.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.new_aws_auth",
+            "certificate_hash": "8958becbe4b338d8ac81c7584bb4781a499c79bb"
+          }
+        },
+        {
+          "client_id": "981424236456-d6ut6fp827c9hps51k5mod59h571jv10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXDwDAgdBhCTizkppo__ydZ1icgUaVYQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981424236456-d6ut6fp827c9hps51k5mod59h571jv10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
